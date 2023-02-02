@@ -1,4 +1,8 @@
-# Kaboom
+# About this repository
+
+This repo is where I test some customizations of the Kaboom game engine for use in my game projects.
+
+## Kaboom
 
 ![kaboom](kaboom.png)
 
