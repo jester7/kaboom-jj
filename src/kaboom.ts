@@ -234,8 +234,8 @@ const DEF_TEXT_CACHE_SIZE = 64
 const MAX_TEXT_CACHE_SIZE = 256
 const FONT_ATLAS_WIDTH = 2048
 const FONT_ATLAS_HEIGHT = 2048
-const SPRITE_ATLAS_WIDTH = 2048
-const SPRITE_ATLAS_HEIGHT = 2048
+const SPRITE_ATLAS_WIDTH = 2048 * 3; // 3x increase in the default 
+const SPRITE_ATLAS_HEIGHT = 2048 * 3; // 3x increase in the default
 // 0.1 pixel padding to texture coordinates to prevent artifact
 const UV_PAD = 0.1
 const DEF_HASH_GRID_SIZE = 64
